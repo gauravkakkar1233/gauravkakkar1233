@@ -144,7 +144,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkakkar1233&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkakkar1233&theme=tokyonight&cache=1" />
 </p>
 
 <p align="center">
